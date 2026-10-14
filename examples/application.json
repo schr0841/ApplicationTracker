@@ -1,0 +1,17 @@
+{
+  "id": "7acfc6c7-8722-4c3d-8c95-63c39b5c10eb",
+  "company": "Example Company",
+  "role": "Software Engineer",
+  "location": "Remote",
+  "posting_url": "https://example.com/jobs/123",
+  "requisition_id": "REQ-123",
+  "applied_at": "2026-10-14",
+  "status": "applied",
+  "contact": null,
+  "notes": "Fictional example only.",
+  "next_follow_up_at": null,
+  "documents": [
+    {"kind": "posting_html", "relative_path": "applications/7acfc6c7-8722-4c3d-8c95-63c39b5c10eb/posting/original.html"},
+    {"kind": "cover_letter_submitted", "relative_path": "applications/7acfc6c7-8722-4c3d-8c95-63c39b5c10eb/cover-letter/submitted.pdf"}
+  ]
+}
