@@ -37,7 +37,7 @@ ApplicationTracker/
           source.docx
 ```
 
-Use a private GitHub repository for the source. Keep real application records, letters, email data, and credentials out of Git. Back up the SQLite database and document folder together to private storage.
+This public GitHub repository contains source code, documentation, and fictional examples only. Keep real application records, letters, email data, and credentials out of Git. Back up the SQLite database and document folder together to private storage.
 
 ## Implementation sequence
 
